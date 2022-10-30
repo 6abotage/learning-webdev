@@ -1,0 +1,3 @@
+- union types we combine existing types
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types
+- number[]
