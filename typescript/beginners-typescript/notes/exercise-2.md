@@ -1,0 +1,2 @@
+- object types in typescript
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#object-types
