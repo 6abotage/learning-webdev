@@ -1,0 +1,2 @@
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#optional-properties
+- add a question mark ? after the property name to make it optional

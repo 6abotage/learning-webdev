@@ -1,0 +1,5 @@
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any
+- typescript is not able to infer the type so it will default to any
+- any isn't type-checked
+- compiler flag `noImplicityAny` will flag `any` as an error
+- since strict mode is true in tsconfig.json it will throw an error
