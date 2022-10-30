@@ -1,0 +1,2 @@
+- optional params
+- https://www.typescriptlang.org/docs/handbook/functions.html#optional-and-default-parameters
