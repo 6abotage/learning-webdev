@@ -1,0 +1,2 @@
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#arrays
+- use [] after number or string or own type
